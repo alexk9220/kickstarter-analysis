@@ -10,7 +10,9 @@ Louise have collected enough money to launch her play Fever and now needs to kno
 
 As we can conclude from our Launch Date vs Outcomes chart, it's clear that May is the best time to launch a play as May shows us the greatest success rate out of all months. So it will make the most sense for Louis to launch her play in May as statistically the chance of success is the highest during this month. June seems to be quite succesfull too so it can aslo be an option to consider.  
 
-Our dataset doesn't exactly consider where exactly plays are launched (country)so that might also be a good point to consider. 
+<img width="429" alt="Theater_Outcomes_vs_Launch" src="https://user-images.githubusercontent.com/73204192/127282642-11302a6c-e5ac-404c-bf22-0c574eba783a.png">
+
+Our dataset doesn't specify where exactly plays are launched (country) so that might also be a good point to take into account. 
 
 ###**Spring is historically the best season to launch a play**
 
@@ -21,9 +23,11 @@ The absolue best time to launch Louise's play is May as historically it's the mo
 
 ##**Outcomes Based Goals Analysis and Challenges**
 
+<img width="746" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/73204192/127283274-b3c8c18f-4d89-4f79-afb6-94dcfe65d434.png">
+
 ###**There is no direct correlation between the ammount of money projected and success 
 
-Based on our data it's clear that the more money - the more successful rule doesn't exactly work in thater world. Over the years it's been proven that the ammount of money involved doesn't guarantee success. 
+Based on our data it's clear that the more money invested - the more successful rule doesn't exactly work in thater world. Over the years it's been proven that the ammount of money involved doesn't guarantee success. 
 
 ##**Low budget plays generally tend to do well
 
