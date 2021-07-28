@@ -25,7 +25,7 @@ The absolue best time to launch Louise's play is May as historically it's the mo
 
 <img width="746" alt="Outcomes_vs_Goals" src="https://user-images.githubusercontent.com/73204192/127283274-b3c8c18f-4d89-4f79-afb6-94dcfe65d434.png">
 
-###**There is no direct correlation between the ammount of money projected and success 
+###**There is no direct correlation between the amount of money projected and the success of the play.
 
 Based on our data it's clear that the more money invested - the more successful rule doesn't exactly work in thater world. Over the years it's been proven that the ammount of money involved doesn't guarantee success. 
 
